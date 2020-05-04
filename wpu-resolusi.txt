@@ -1,3 +1,4 @@
 WPU Resolusi
 - Belajar Programing Menggunakan Git & Github
-- coba nambah resolusi
+- Bisa mengerti programing
+
